@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="Copyright (c) $today.year" />
+    <option name="myName" value="John Morris" />
+  </copyright>
+</component>
